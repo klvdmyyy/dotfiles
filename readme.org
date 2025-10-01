@@ -2,7 +2,7 @@
 #+author: Klementiev Dmitry
 #+email: klementievd08@yandex.ru
 
-Klvdmyyy's (linux)rvanna
+# Welcome to Klvdmyyy's (linux)rvanna
 
 * Interesting directories
 
