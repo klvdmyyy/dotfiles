@@ -29,6 +29,15 @@
 
 - org.telegram.desktop
 - com.discordapp.Discord
+- app.zen_browser.zen
+
+
+To see all installed flatpak packages on your system
+run following command:
+#+begin_src sh
+  $ ls /var/lib/flatpak/app
+  $ ls $HOME/.local/share/flatpak/app
+#+end_src
 
 ** Other
 
