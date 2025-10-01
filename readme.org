@@ -1,0 +1,40 @@
+#+title: Klvdmyyy's dotfiles (Not only dotfiles)
+#+author: Klementiev Dmitry
+#+email: klementievd08@yandex.ru
+
+* Interesting directories
+
+- System services :: /etc/systemd/system
+- Home configuration :: $HOME/.config
+- Autostart :: $HOME/.config/autostart
+
+* Interesting services
+
+- Zapret (Discord/Youtube) :: /etc/systemd/system/zapret_discord_youtube.service
+
+* Things
+
+- Distro :: OpenSUSE
+- Package Manager :: Zypper
+- Desktop Environment :: KDE Plasma
+
+** System Packages
+
+- emacs
+- steam
+
+** Flatpak Packages
+
+- org.telegram.desktop
+- com.discordapp.Discord
+
+** Other
+
+- [[https://github.com/bol-van/zapret][Zapret (Orig Sources)]]
+- [[https://github.com/Sergeydigl3/zapret-discord-youtube-linux][Zapret (Discord/Youtube)]]
+
+  Last working method at <2025-10-01 Wed>: =general_alt2.bat=.
+
+- [[https://github.com/Prayag2/konsave][Konsave (Save KDE configuration?!?!?)]]
+
+  Not tested by me but so interesting thing.
