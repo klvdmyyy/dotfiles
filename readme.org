@@ -19,11 +19,16 @@
 - Distro :: OpenSUSE
 - Package Manager :: Zypper
 - Desktop Environment :: KDE Plasma
+- Web Browser :: Zen Browser (Flatpak)
 
 ** System Packages
 
 - emacs
 - steam
+
+*** Removed
+
+- firefox
 
 ** Flatpak Packages
 
