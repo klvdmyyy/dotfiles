@@ -25,6 +25,7 @@
 
 - emacs
 - steam
+- gamemode
 
 *** Removed
 
@@ -43,6 +44,10 @@ run following command:
   $ ls /var/lib/flatpak/app
   $ ls $HOME/.local/share/flatpak/app
 #+end_src
+
+** /Manual/ packages
+
+- [[https://docs.ollama.com/linux][Ollama]]
 
 ** Other
 
